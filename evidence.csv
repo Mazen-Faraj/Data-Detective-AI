@@ -1,0 +1,6 @@
+Transaction_ID,Date,Employee,Amount,Location,Notes
+101,2026-01-10,Sara,1200,Riyadh,Marketing Expenses
+102,2026-01-12,Ahmed,500,Riyadh,Office Stationery
+103,2026-01-15,Ahmed,95000,Cayman Islands,Software Update
+104,2026-01-20,Khaled,300,Jeddah,Client Lunch
+105,2026-01-22,Sara,1500,Dubai,Travel
